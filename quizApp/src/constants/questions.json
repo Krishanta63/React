@@ -1,0 +1,138 @@
+[
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "answerOptions": [
+      {"text": "Germany", "isCorrect": false},
+      {"text": "Brazil", "isCorrect": false},
+      {"text": "France", "isCorrect": true},
+      {"text": "Argentina", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Who is the all-time top scorer in the UEFA Champions League?",
+    "answerOptions": [
+      {"text": "Lionel Messi", "isCorrect": false},
+      {"text": "Cristiano Ronaldo", "isCorrect": true},
+      {"text": "Robert Lewandowski", "isCorrect": false},
+      {"text": "Karim Benzema", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Which club has won the most English Premier League titles?",
+    "answerOptions": [
+      {"text": "Liverpool", "isCorrect": false},
+      {"text": "Manchester United", "isCorrect": true},
+      {"text": "Chelsea", "isCorrect": false},
+      {"text": "Arsenal", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Which country hosted the 2022 FIFA World Cup?",
+    "answerOptions": [
+      {"text": "USA", "isCorrect": false},
+      {"text": "Russia", "isCorrect": false},
+      {"text": "Qatar", "isCorrect": true},
+      {"text": "Japan", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Who won the Ballon d'Or in 2023?",
+    "answerOptions": [
+      {"text": "Erling Haaland", "isCorrect": false},
+      {"text": "Lionel Messi", "isCorrect": true},
+      {"text": "Kylian Mbappé", "isCorrect": false},
+      {"text": "Kevin De Bruyne", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Which club is nicknamed 'The Old Lady'?",
+    "answerOptions": [
+      {"text": "Real Madrid", "isCorrect": false},
+      {"text": "Juventus", "isCorrect": true},
+      {"text": "Bayern Munich", "isCorrect": false},
+      {"text": "Paris Saint-Germain", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Who won the UEFA Euro 2016 tournament?",
+    "answerOptions": [
+      {"text": "France", "isCorrect": false},
+      {"text": "Germany", "isCorrect": false},
+      {"text": "Portugal", "isCorrect": true},
+      {"text": "Italy", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "In which country is La Liga played?",
+    "answerOptions": [
+      {"text": "Italy", "isCorrect": false},
+      {"text": "France", "isCorrect": false},
+      {"text": "Germany", "isCorrect": false},
+      {"text": "Spain", "isCorrect": true}
+    ]
+  },
+  {
+    "question": "What is the maximum number of players a team can have on the pitch?",
+    "answerOptions": [
+      {"text": "10", "isCorrect": false},
+      {"text": "11", "isCorrect": true},
+      {"text": "12", "isCorrect": false},
+      {"text": "9", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Which Brazilian footballer is nicknamed 'O Fenômeno'?",
+    "answerOptions": [
+      {"text": "Ronaldinho", "isCorrect": false},
+      {"text": "Romário", "isCorrect": false},
+      {"text": "Ronaldo Nazário", "isCorrect": true},
+      {"text": "Neymar", "isCorrect": false}
+    ]
+  },
+    {
+        "question": "Which country has the most Copa América titles?",
+        "answerOptions": [
+        {"text": "Argentina", "isCorrect": false},
+        {"text": "Brazil", "isCorrect": true},
+        {"text": "Chile", "isCorrect": false},
+        {"text": "Uruguay", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Who is the only player to have won the FIFA World Cup three times?",
+        "answerOptions": [
+        {"text": "Pelé", "isCorrect": true},
+        {"text": "Diego Maradona", "isCorrect": false},
+        {"text": "Zinedine Zidane", "isCorrect": false},
+        {"text": "Lionel Messi", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which team won the UEFA Champions League in 2021?",
+        "answerOptions": [
+        {"text": "Manchester City", "isCorrect": false},
+        {"text": "Chelsea", "isCorrect": true},
+        {"text": "Bayern Munich", "isCorrect": false},
+        {"text": "Paris Saint-Germain", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Who is the all-time top scorer for the England national team?",
+        "answerOptions": [
+        {"text": "Wayne Rooney", "isCorrect": true},
+        {"text": "Harry Kane", "isCorrect": false},
+        {"text": "Gary Lineker", "isCorrect": false},
+        {"text": "Michael Owen", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which country won the UEFA Euro 2020 tournament?",
+        "answerOptions": [
+        {"text": "Italy", "isCorrect": true},
+        {"text": "England", "isCorrect": false},
+        {"text": "Spain", "isCorrect": false},
+        {"text": "Portugal", "isCorrect": false}
+        ]
+    }
+
+]
